@@ -34,7 +34,7 @@
 <h3> ⚙️&nbsp; Leetcode Stats</h3>
 <p align="center">
 <a href="https://leetcode.com/shariqueakhter/" target="_blank">
-<img title="Sharique Akhter's LeetCode Stats" alt="Sharique Akhter's LeetCode Stats" src="https://leetcard.jacoblin.cool/sharique850?theme=light&font=Noto%20Sans%20Myanmar" />
+<img title="Sharique Akhter's LeetCode Stats" alt="Sharique Akhter's LeetCode Stats" src="https://leetcard.jacoblin.cool/shariqueakhter?theme=light&font=Noto%20Sans%20Myanmar" />
 </a>
 </p>
 
