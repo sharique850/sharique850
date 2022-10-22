@@ -3,7 +3,7 @@
 
 - I am currently learning some frameworks such as **Java and Spring Boot.**
 
-- 👨‍💻 All of my projects are available at [http://jigyashu.letscode1.com/](http://jigyashu.letscode1.com/)
+<!-- - 👨‍💻 All of my projects are available at [http://jigyashu.letscode1.com/](http://jigyashu.letscode1.com/) -->
 
 <!-- - 📝 I regularly write articles on [https://courseandjobs.com/](https://courseandjobs.com/) -->
 
@@ -16,6 +16,8 @@
 <a href="https://www.linkedin.com/in/sharique-akhter564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharique-akhter" height="30" width="40" /></a>
 
 <a href="https://www.instagram.com/sharique.akhter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shariqueakhter" height="30" width="40" /></a>
+  
+<a href="https://www.twitter.com/shariqueakhter7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shariqueakhter" height="30" width="40" /></a>
   
 <a href="https://www.hackerrank.com/shariqueakhter6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shariqueakhter" height="30" width="40" /></a>
 </p>
