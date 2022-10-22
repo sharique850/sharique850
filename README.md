@@ -14,10 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sharique-akhter564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharique-akhter" height="30" width="40" /></a>
-
-<a href="https://www.instagram.com/sharique.akhter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shariqueakhter" height="30" width="40" /></a>
   
 <a href="https://www.twitter.com/shariqueakhter7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shariqueakhter" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/sharique.akhter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shariqueakhter" height="30" width="40" /></a>
   
 <a href="https://www.hackerrank.com/shariqueakhter6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shariqueakhter" height="30" width="40" /></a>
 </p>
