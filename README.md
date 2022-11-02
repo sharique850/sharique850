@@ -51,7 +51,7 @@
 <img title="Sharique Akhter's LeetCode Stats" alt="Sharique Akhter's LeetCode Stats" src="https://leetcard.jacoblin.cool/shariqueakhter?theme=light&font=Noto%20Sans%20Myanmar" />
 </a>
 </p>
-
+<br>
 <p align="center">
   <img src="https://github.com/sharique850/sharique850/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
