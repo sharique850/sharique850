@@ -34,7 +34,7 @@
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=sharique850&count_private=true&theme=radical&show_icons=true" />
 
 
-
+<p align="left"> <a href="https://twitter.com/shariqueakhter7" target="blank"><img src="https://img.shields.io/twitter/follow/shariqueakhter7?logo=twitter&style=for-the-badge" alt="shariqueakhter7" /></a> </p>
 
 <!-- <p align="center">
 <a href="https://github.com/sharique850">
@@ -50,6 +50,10 @@
 <a href="https://leetcode.com/shariqueakhter/" target="_blank">
 <img title="Sharique Akhter's LeetCode Stats" alt="Sharique Akhter's LeetCode Stats" src="https://leetcard.jacoblin.cool/shariqueakhter?theme=light&font=Noto%20Sans%20Myanmar" />
 </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/sharique850/sharique850/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 
