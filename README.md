@@ -11,15 +11,11 @@
 
 <!-- - ⚡ Fun fact **.** -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sharique-akhter564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharique-akhter" height="30" width="40" /></a>
-  
-<a href="https://www.twitter.com/shariqueakhter7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shariqueakhter" height="30" width="40" /></a>
-
-<a href="https://www.instagram.com/sharique.akhter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shariqueakhter" height="30" width="40" /></a>
-  
-<a href="https://www.hackerrank.com/shariqueakhter6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shariqueakhter" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/shariqueakhter7" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="shariqueakhter7" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/sharique-akhter564/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Sharique Akhter" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/sharique.akhter" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="sharique.akhter" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
